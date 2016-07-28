@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+}
+
+.login-panel{
+    width: 400px;
+    background-color: #f7f7f7;
+    margin: 150px auto;
+    border-radius: 5px 5px 5px 5px;
+    padding: 25px;
+}
+
+.error-message{
+    color: #a94442 !important;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.login_links, .login_links > a{
+    text-decoration: none !important;
+    width: 110px;
+}
+
+.float_left{
+    float: left;
+}
+
+.float_right{
+    float: right;
+}
+
+.inline_block{
+    display: inline-block !important;
+}
+
+.login_buttons{
+    height: 35px;
+}
